@@ -53,8 +53,8 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 ## 🌱 Currently Working On
 
 - 🎯 Building **Life Catcher** — a personal progress tracking web app  
-- 📹 Training a **video anomaly detection model** using CNNs + Transformers  
-- 🧠 Exploring unsupervised deep learning methods  
+- 📹 Training a **video anomaly detection model** using CNNs + Transformers and GANs 
+- 🧠 Exploring deep learning models and building modern full-stack web platforms 
 
 ---
 
@@ -66,7 +66,10 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 
 ## 🔥 Fun Stats
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dilaraacelik&label=Profile%20Views&color=ff69b4&style=flat)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourGitHubUsername&theme=radical" />
+</p>
+
 
 ---
 
