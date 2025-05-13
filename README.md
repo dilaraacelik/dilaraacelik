@@ -45,7 +45,6 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilaraacelik&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=dilaraacelik&theme=radical" width="48%" />
 </p>
 
 <p align="center">
