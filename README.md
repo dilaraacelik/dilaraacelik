@@ -11,7 +11,14 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 - 🌱 I’m currently learning **Video Anomaly Detection**, **Deep Learning**, and **Full-Stack Development**
 - 💻 Ask me about **Full-Stack Development**, **Unsupervised Learning**
 - 🙋‍♀️ Eager to learn, open to feedback, and always up for a challenge!
-- 📫 Reach me via: [dilara.dcelik@gmail.com](mailto:dilara.dcelik@gmail.com)
+- 📫 Reach me via: [dilara.dcelik@gmail.com](mailto:dilara.dcelik@gmail.com)  
+  🔗 LinkedIn: [linkedin.com/in/dilaraacelik](https://www.linkedin.com/in/dilaracelikk)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dilaraacelik">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 - 🧠 Fun fact: I love puzzles and thinking about **systems, patterns, and human behavior**
 
 ---
