@@ -12,7 +12,7 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 - 💻 Ask me about **Full-Stack Development**, **Unsupervised Learning**
 - 🙋‍♀️ Eager to learn, open to feedback, and always up for a challenge!
 - 📫 Reach me via: [dilara.dcelik@gmail.com](mailto:dilara.dcelik@gmail.com)  
-  🔗 LinkedIn: [linkedin.com/in/dilaraacelik](https://www.linkedin.com/in/dilaracelikk)
+  🔗 LinkedIn: [linkedin.com/in/dilaracelikk](https://www.linkedin.com/in/dilaracelikk)
 - 🧠 Fun fact: I love puzzles and thinking about **systems, patterns, and human behavior**
 
 ---
