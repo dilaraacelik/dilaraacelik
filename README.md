@@ -64,11 +64,12 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 
 ---
 
-## 🔥 Fun Stats
+## 💫 Developer Vibes
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourGitHubUsername&theme=radical" />
-</p>
+😎 Code Like a Girl  
+🧠 Learning never stops  
+🔥 Bugs fear me  
+🚀 Trying to touch the stars
 
 
 ---
