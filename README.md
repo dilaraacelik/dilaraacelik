@@ -8,8 +8,9 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Video Anomaly Detection**, **Deep Learning**, and **LLM Architectures**
+- 🌱 I’m currently learning **Video Anomaly Detection**, **Deep Learning**, and **Full-Stack Development**
 - 💻 Ask me about **Full-Stack Development**, **Unsupervised Learning**
+- 🙋‍♀️ Eager to learn, open to feedback, and always up for a challenge!
 - 📫 Reach me via: [dilara.dcelik@gmail.com](mailto:dilara.dcelik@gmail.com)
 - 🧠 Fun fact: I love puzzles and thinking about **systems, patterns, and human behavior**
 
@@ -65,7 +66,7 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 
 ## 🔥 Fun Stats
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dilaaracelik&label=Profile%20Views&color=ff69b4&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=dilaraacelik&label=Profile%20Views&color=ff69b4&style=flat)
 
 ---
 
