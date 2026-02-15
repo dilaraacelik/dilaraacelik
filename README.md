@@ -8,8 +8,8 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Video Anomaly Detection**, **Deep Learning**, and **Full-Stack Development**
-- 💻 Ask me about **Full-Stack Development**, **Unsupervised Learning**
+- 🌱 I’m currently learning **LLM's** and **Full-Stack Development**
+- 💻 Ask me about **Full-Stack Development**, **LLM's**
 - 🙋‍♀️ Eager to learn, open to feedback, and always up for a challenge!
 - 📫 Reach me via: [dilara.dcelik@gmail.com](mailto:dilara.dcelik@gmail.com)  
   🔗 LinkedIn: [linkedin.com/in/dilaracelikk](https://www.linkedin.com/in/dilaracelikk)
@@ -57,8 +57,7 @@ Passionate Computer Engineer | AI & Web Dev Enthusiast | Puzzle Solver | Space D
 ## 🌱 Currently Working On
 
 - 🎯 Building **Life Catcher** — a personal progress tracking web app  
-- 📹 Training a **video anomaly detection model** using CNNs + Transformers and GANs 
-- 🧠 Exploring deep learning models and building modern full-stack web platforms 
+- 🧠 Exploring llm models and building modern full-stack web platforms 
 
 ---
 
